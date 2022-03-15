@@ -1,6 +1,6 @@
 # Install dependencies
 brew update
-brew install coreutils pkg-config dylibbundler ninja
+brew install coreutils pkg-config dylibbundler ninja | yes
 
 # Clone and build
 git clone https://github.com/mborgerson/xemu.git
