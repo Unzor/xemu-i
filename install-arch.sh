@@ -1,5 +1,5 @@
 # Install dependencies
-sudo pacman -S --noconfirm git base-devel sdl2 libepoxy pixman gtk3 openssl libsamplerate libpcap ninja glu
+sudo pacman -S --noconfirm git base-devel sdl2 libepoxy pixman gtk3 openssl libsamplerate libpcap ninja glu | yes
 
 # Clone and build
 git clone https://github.com/mborgerson/xemu.git
