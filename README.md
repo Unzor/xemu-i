@@ -1,5 +1,5 @@
 # xemu-i
-Simple one-liner to install Xemu in all operating systems. All must have Git installed, Windows needs Docker and WSL2.
+Simple one-liner to build Xemu in all operating systems. All must have Git installed, Windows needs Docker, WSL2 and Wingubash.
 
 # Usage
 ```
